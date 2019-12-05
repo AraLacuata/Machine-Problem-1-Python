@@ -1,0 +1,3 @@
+Piecewise Description
+
+The graph has equal spaces in terms of the x coordinates, and its y- coordinates range from -10 to 74. Once 74 is reached, the graph repeats the pattern of having a y-coordinate of -10 and increases when the x-coordinate increases until the y-coordinate once again becomes 74.
